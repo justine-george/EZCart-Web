@@ -57,7 +57,7 @@ const ProductList = () => {
     return (
         <div>
             <Typography variant="h2" component="h2" sx={{ paddingTop: 5, paddingBottom: 3 }}>
-                EZ-Mart
+                EZ-Cart
             </Typography>
             <ProductFilter categories={categories} onFilter={handleFilter} />
             <Grid sx={{ paddingTop: 5 }} container spacing={4}>
