@@ -1,6 +1,6 @@
 # React Frontend Ecommerce App
 
-This is a sample ecommerce app built using React that allows users to browse through a list of products, view the details of a product, add it to a cart, and move items between the cart and wishlist. The app is built using React and ReactDOM, with React Router for navigation, Axios for making API requests, and Material-UI for UI components.
+This is an ecommerce app built using React that allows users to browse through a list of products, view the details of a product, add it to a cart, and move items between the cart and wishlist. The app is built using React and ReactDOM, with React Router for navigation, Axios for making API requests, and Material-UI for UI components.
 
 # Features
 
