@@ -2,7 +2,7 @@
 
 An ecommerce app built using React that allows users to browse through a list of products, view the details of a product, add it to a cart, and move items between the cart and wishlist. The app is built using React and ReactDOM, with React Router for navigation, Axios for making API requests, and Material-UI for UI components.
 
-## 🌱 Features
+## Features
 
 The app includes the following features:
 
@@ -13,7 +13,7 @@ The app includes the following features:
 - Remove a product from the cart or wishlist.
 - Filter products by category.
 
-## 🛠️ Implementation
+## Implementation
 
 The app is structured as follows:
 
@@ -26,7 +26,7 @@ The app is structured as follows:
 - The ProductService module, which provides methods for fetching products from the API.
 - The useCachedData hook, which caches API responses in local storage to speed up subsequent page loads.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Some possible improvements to the app include:
 
@@ -37,21 +37,18 @@ Some possible improvements to the app include:
 - Adding a search bar to search for products by name or description.
 - Adding more detailed product information, such as images and reviews.
 
-## 📚 Development:
+## Development:
 
-### Install dependencies:
+```
+npm install
+npm start
+```
 
-> `npm install`
+## Contribution:
 
-### Run the application:
+Open to enhancements & bug fixes. Feel free to contribute!
 
-> `npm start`
+## License:
 
-## 🙌 Contribution:
-
-- Open to enhancements & bug fixes. Feel free to contribute!
-
-## 🔐 License:
-
-- Distributed under the MIT License.
+Distributed under the MIT License.
 
